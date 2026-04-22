@@ -189,7 +189,3 @@ Cada exemplo segue o formato:
 ## Uso de IA
 
 > Partes complementadas com IA, revisadas por **Ingrid**.
-
-Ferramentas utilizadas:
-- **Claude (Anthropic)** — estruturação do pipeline e geração do notebook
-- **Groq API / Llama 3** — geração do dataset sintético e fine-tuning
